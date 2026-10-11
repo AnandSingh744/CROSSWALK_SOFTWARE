@@ -1,0 +1,81 @@
+Occupation_Id,Job_Title,Industry,Degree,Course,Specialization,College,Graduation_Year,Employment_Status,Experience_Level,Previous_Job_Title
+OCC001,Product Analyst,Healthcare,Master of Science,Statistics,Applied Statistics,Summit State University,2025,Employed,Entry,
+OCC002,Data Analyst,Finance & Banking,Master of Technology,Computer Science,Artificial Intelligence,Meridian Institute of Management,2021,Employed,Mid,DevOps Engineer
+OCC003,Cloud Engineer,Technology,Master of Computer Applications,Computer Applications,Software Engineering,Westbrook Engineering College,2021,Employed,Mid,
+OCC004,ML Engineer,Technology,Bachelor of Technology,Information Technology,Networking,Harborline Institute of Science,2020,Employed,Mid,Software Developer
+OCC005,Machine Learning Engineer,Government & Public Sector,Master of Science,Computer Science,Cybersecurity,Harborline Institute of Science,2023,Employed,Entry,
+OCC006,Machine Learning Engineer,Technology,BTech,Computer Science,Cybersecurity,Riverdale University,2024,Employed,Entry,
+OCC007,,,Master of Technology,Computer Science,Cloud Computing,Northfield Institute of Technology,2025,Seeking Employment,Entry,
+OCC008,Machine Learning Engineer,Technology,Bachelor of Engineering,Computer Science,Software Engineering,Oakridge University,2025,Employed,Entry,
+OCC009,BI Analyst,Technology,Bachelor of Science,Mathematics,Applied Statistics,Harborline Institute of Science,2023,Employed,Entry,
+OCC010,Actuarial Analyst,Insurance,Master of Business Administration,Business Administration,Finance,Summit State University,2024,Employed,Entry,
+OCC011,Data Engineer,Healthcare,Master of Science,Statistics,Applied Statistics,Oakridge University,2021,Employed,Mid,Software Developer
+OCC012,Data Analyst,Consulting,Master of Technology,Computer Science,Cloud Computing,Oakridge University,2022,Self-Employed,Entry,
+OCC013,AI Engineer,Manufacturing,Master of Science,Data Science,Artificial Intelligence,Crestview Business School,2021,Employed,Mid,
+OCC014,Financial Analyst,Logistics,Bachelor of Science,Statistics,Applied Statistics,Riverdale University,2024,Employed,Entry,
+OCC015,DevOps Eng.,Technology,Master of Computer Applications,Computer Applications,Data Science,Meridian Institute of Management,2021,Employed,Mid,Systems Administrator
+OCC016,UX Designer,Media & Entertainment,Bachelor of Technology,Computer Science,Cloud Computing,Lakeside College of Computing,2019,Employed,Senior,Game Developer
+OCC017,Web Developer,Technology,Bachelor of Science,Data Science,Data Science,Crestview Business School,2023,Employed,Mid,
+OCC018,IT Consultant,Consulting,B.Tech.,Information Technology,Networking,Harborline Institute of Science,2025,Employed,Entry,
+OCC019,,,Master of Science,Data Science,Artificial Intelligence,Crestview Business School,2025,Seeking Employment,Entry,
+OCC020,Network Engineer,Telecommunications,Bachelor of Engineering,Computer Science,Data Science,Westbrook Engineering College,2025,Employed,Entry,
+OCC021,Mobile App Developer,Media & Entertainment,Bachelor of Computer Applications,Computer Applications,Software Engineering,Meridian Institute of Management,2021,Employed,Senior,Product Analyst
+OCC022,DB Administrator,Finance & Banking,Master of Computer Applications,Computer Applications,Software Engineering,Westbrook Engineering College,2022,Employed,Entry,
+OCC023,Cybersecurity Analyst,Technology,Master of Science,Computer Science,Cybersecurity,Harborline Institute of Science,2024,Employed,Mid,Software Developer
+OCC024,Data Analyst,Technology,Bachelor of Technology,Computer Science,Cybersecurity,Riverdale University,2022,Employed,Entry,
+OCC025,Business Analyst,Consulting,Bachelor of Business Administration,Business Administration,Business Analytics,Riverdale University,2018,Employed,Mid,
+OCC026,Actuarial Analyst,Insurance,Bachelor of Science,Statistics,Applied Statistics,Riverdale University,2018,Self-Employed,Mid,Data Analyst
+OCC027,AI Engineer,Technology,Bachelor of Commerce,Commerce,Business Analytics,Meridian Institute of Management,2018,Employed,Senior,Machine Learning Engineer
+OCC028,Fin Analyst,Finance & Banking,Bachelor of Technology,Computer Science,Cybersecurity,Riverdale University,2023,Employed,Entry,
+OCC029,Business Analyst,Consulting,Master of Technology,Computer Science,Cloud Computing,Northfield Institute of Technology,2018,Employed,Mid,Data Analyst
+OCC030,Frontend Developer,Energy,Master of Science,Computer Science,Cybersecurity,Harborline Institute of Science,2018,Employed,Mid,MLOps Engineer
+OCC031,,,Bachelor of Technology,Electronics and Communication,Networking,Greenfield College of Commerce,2024,Seeking Employment,Entry,
+OCC032,Game Developer,Media & Entertainment,Master of Science,Data Science,Artificial Intelligence,Crestview Business School,2020,Employed,Mid,UX Designer
+OCC033,Cloud Engineer,Technology,BCA,Computer Applications,Information Systems,Oakridge University,2023,Employed,Entry,
+OCC034,NLP Engineer,Technology,Bachelor of Technology,Information Technology,Networking,Harborline Institute of Science,2021,Employed,Mid,Software Developer
+OCC035,Database Administrator,Technology,Bachelor of Technology,Computer Science,Cloud Computing,Lakeside College of Computing,2025,Employed,Entry,
+OCC036,Cyber Security Analyst,Logistics,Bachelor of Computer Applications,Computer Applications,Software Engineering,Meridian Institute of Management,2018,Employed,Senior,
+OCC037,Software Developer,Telecommunications,Bachelor of Science,Information Technology,Cloud Computing,Oakridge University,2023,Employed,Mid,MLOps Engineer
+OCC038,Cybersecurity Analyst,IT,Bachelor of Technology,Electronics and Communication,Networking,Greenfield College of Commerce,2024,Employed,Mid,Software Developer
+OCC039,Data Scientist,Manufacturing,Bachelor of Engineering,Computer Science,Software Engineering,Northfield Institute of Technology,2020,Employed,Senior,
+OCC040,Education Data Analyst,Education,Bachelor of Engineering,Computer Science,Data Science,Westbrook Engineering College,2018,Self-Employed,Mid,Data Analyst
+OCC041,Web Developer,Education,Bachelor of Technology,Information Technology,Information Systems,Summit State University,2025,Employed,Entry,
+OCC042,Public Sector Policy Analyst,Consulting,Bachelor of Science,Mathematics,Applied Statistics,Harborline Institute of Science,2024,Employed,Entry,
+OCC043,Web Developer,Technology,Bachelor of Technology,Computer Science,Software Engineering,Crestview Business School,2022,Employed,Entry,
+OCC044,,,Bachelor of Technology,Computer Science,Cloud Computing,Lakeside College of Computing,2024,Seeking Employment,Entry,
+OCC045,Data Analyst,Technology,Bachelor of Technology,Information Technology,Networking,Harborline Institute of Science,2020,Employed,Mid,Security Engineer
+OCC046,Network Engineer,Consulting,Bachelor of Technology,Computer Science,Cybersecurity,Riverdale University,2021,Employed,Senior,
+OCC047,Web Dev,Technology,Master of Technology,Computer Science,Artificial Intelligence,Greenfield College of Commerce,2023,Employed,Mid,Data Engineer
+OCC048,Database Administrator,Technology,Master of Technology,Computer Science,Cloud Computing,Northfield Institute of Technology,2019,Employed,Senior,
+OCC049,Data Analyst,Technology,BSc,Information Technology,Cloud Computing,Summit State University,2023,Employed,Entry,
+OCC050,Web Developer,Technology,Master of Computer Applications,Computer Applications,Software Engineering,Westbrook Engineering College,2025,Employed,Entry,
+OCC051,Business Intelligence Analyst,Technology,Bachelor of Science,Data Science,Data Science,Crestview Business School,2022,Employed,Entry,
+OCC052,Operations Analyst,Manufacturing,Bachelor of Business Administration,Business Administration,Finance,Lakeside College of Computing,2022,Employed,Entry,
+OCC053,Cloud Engr,Insurance,Bachelor of Computer Applications,Computer Applications,Software Engineering,Greenfield College of Commerce,2022,Employed,Mid,Web Developer
+OCC054,Cybersecurity Analyst,Technology,Bachelor of Science,Information Technology,Cloud Computing,Oakridge University,2025,Employed,Entry,
+OCC055,Data Scientist,Consulting,Master of Computer Applications,Computer Applications,Data Science,Lakeside College of Computing,2024,Self-Employed,Entry,
+OCC056,Software Developer,Technology,Master of Technology,Computer Science,Cloud Computing,Oakridge University,2024,Employed,Mid,NLP Engineer
+OCC057,Software Developer,Logistics,Master of Business Administration,Business Administration,Finance,Summit State University,2025,Employed,Entry,
+OCC058,,,Master of Computer Applications,Computer Applications,Software Engineering,Westbrook Engineering College,2024,Seeking Employment,Entry,
+OCC059,Business Analyst,Consulting,Bachelor of Technology,Electronics and Communication,Networking,Greenfield College of Commerce,2018,Employed,Senior,Operations Analyst
+OCC060,Financial Analyst,Healthcare,Bachelor of Science,Mathematics,Applied Statistics,Harborline Institute of Science,2020,Employed,Mid,Fraud Analyst
+OCC061,Financial Analyst,Telecommunications,Master of Business Administration,Business Administration,Business Analytics,Northfield Institute of Technology,2021,Employed,Senior,Fraud Analyst
+OCC062,Investment Analyst,Government & Public Sector,Bachelor of Science,Mathematics,Applied Statistics,Lakeside College of Computing,2023,Employed,Mid,Financial Analyst
+OCC063,Web Dev,Technology,Bachelor of Engineering,Computer Science,Software Engineering,Northfield Institute of Technology,2024,Employed,Mid,Full Stack Developer
+OCC064,Security Engineer,Education,Bachelor of Science,Information Technology,Cloud Computing,Oakridge University,2022,Employed,Mid,
+OCC065,Investment Analyst,Finance & Banking,Bachelor of Business Administration,Business Administration,Finance,Lakeside College of Computing,2022,Employed,Entry,
+OCC066,Cloud Engineer,Technology,MTech,Computer Science,Cloud Computing,Northfield Institute of Technology,2024,Employed,Entry,
+OCC067,Data Scientist,Technology,Master of Technology,Computer Science,Artificial Intelligence,Greenfield College of Commerce,2025,Employed,Entry,
+OCC068,Cybersecurity Analyst,Technology,Bachelor of Engineering,Computer Science,Software Engineering,Oakridge University,2025,Self-Employed,Entry,
+OCC069,Financial Analyst,Finance & Banking,Bachelor of Commerce,Commerce,Business Analytics,Lakeside College of Computing,2025,Employed,Entry,
+OCC070,Systems Administrator,Technology,Bachelor of Technology,Computer Science,Software Engineering,Crestview Business School,2018,Employed,Mid,Frontend Developer
+OCC071,,,Bachelor of Technology,Computer Science,Software Engineering,Crestview Business School,2025,Seeking Employment,Entry,
+OCC072,Cloud Solutions Architect,Technology,Bachelor of Science,Data Science,Data Science,Crestview Business School,2022,Employed,Entry,
+OCC073,Data Analyst,Technology,Master of Science,Statistics,Applied Statistics,Summit State University,2022,Employed,Mid,DevOps Engineer
+OCC074,Business Analyst,Consulting,Bachelor of Commerce,Commerce,Finance,Westbrook Engineering College,2025,Employed,Entry,
+OCC075,Product Mgr,Technology,Bachelor of Technology,Electronics and Communication,Networking,Greenfield College of Commerce,2024,Employed,Mid,
+OCC076,Web Developer,Technology,Bachelor of Technology,Computer Science,Artificial Intelligence,Northfield Institute of Technology,2020,Employed,Senior,Full Stack Developer
+OCC077,Data Scientist,Technology,Master of Computer Applications,Computer Applications,Data Science,Lakeside College of Computing,2022,Employed,Entry,
+OCC078,Web Developer,Technology,Bachelor of Technology,Information Technology,Information Systems,Summit State University,2018,Employed,Senior,Security Engineer
+OCC079,Penetration Tester,Healthcare,Bachelor of Computer Applications,Computer Applications,Information Systems,Northfield Institute of Technology,2018,Employed,Mid,Computer Vision Engineer
+OCC080,Product Analyst,Technology,Master of Technology,Computer Science,Artificial Intelligence,Meridian Institute of Management,2024,Employed,Mid,

@@ -1,0 +1,69 @@
+Subject_Id,Subject_Name,Degree,Course,Semester,Credits,Subject_Type,Skills_Taught
+SUB001,Programming in C++,Bachelor of Technology,Computer Science,1,4,Core,C++|Problem Solving
+SUB002,Professional Communication,Bachelor of Technology,Computer Science,1,3,Core,Communication|Presentation Skills
+SUB003,Data Structures,Bachelor of Technology,Computer Science,2,4,Core,Data Structures and Algorithms|C++
+SUB004,Object Oriented Programming with Java,Bachelor of Technology,Computer Science,2,4,Core,Java|Problem Solving
+SUB005,Operating Systems,Bachelor of Technology,Computer Science,3,4,Core,Operating Systems|Linux
+SUB006,Database Management Systems,Bachelor of Technology,Computer Science,3,4,Core,SQL|Database Management|Data Modelling
+SUB007,Probability and Statistics,Bachelor of Technology,Computer Science,3,3,Core,Statistics
+SUB008,Web Technologies,Bachelor of Technology,Computer Science,3,3,Core,HTML/CSS|JavaScript
+SUB009,Computer Networks,Bachelor of Technology,Computer Science,4,4,Core,Computer Networks
+SUB010,Software Engineering,Bachelor of Technology,Computer Science,4,3,Core,Requirements Gathering|Waterfall Project Management|Teamwork
+SUB011,Design and Analysis of Algorithms,Bachelor of Technology,Computer Science,4,4,Core,Data Structures and Algorithms|Problem Solving
+SUB012,Python Programming,Bachelor of Technology,Computer Science,4,3,Core,Python
+SUB013,Software Testing,Bachelor of Technology,Computer Science,5,3,Core,Manual Software Testing|Software Testing
+SUB014,Artificial Intelligence Fundamentals,Bachelor of Technology,Computer Science,5,3,Core,Machine Learning|Python|Critical Thinking
+SUB015,Information Security,Bachelor of Technology,Computer Science,5,3,Core,Network Security|Cryptography
+SUB016,Mobile Application Development,Bachelor of Technology,Computer Science,5,3,Elective,Mobile App Development|Java
+SUB017,Machine Learning,Bachelor of Technology,Computer Science,6,4,Core,Machine Learning|Python|Scikit-learn|Statistics
+SUB018,Software Project Management,Bachelor of Technology,Computer Science,6,3,Core,Project Management|Leadership|Time Management
+SUB019,Data Mining,Bachelor of Technology,Computer Science,7,3,Elective,Data Analysis|SQL|Statistics
+SUB020,Capstone Project,Bachelor of Technology,Computer Science,7,6,Core,Git|Teamwork|Problem Solving
+SUB021,Industry Internship,Bachelor of Technology,Computer Science,8,6,Core,Communication|Adaptability
+SUB022,Statistics I,Bachelor of Science,Data Science,1,4,Core,Statistics|Excel
+SUB023,Python for Data Science,Bachelor of Science,Data Science,1,4,Core,Python|Pandas
+SUB024,Database Systems,Bachelor of Science,Data Science,2,4,Core,SQL|Database Management
+SUB025,Statistics II,Bachelor of Science,Data Science,2,4,Core,Statistics|R
+SUB026,Data Visualization,Bachelor of Science,Data Science,3,3,Core,Data Visualization|Tableau
+SUB027,Data Analysis Techniques,Bachelor of Science,Data Science,3,4,Core,Data Analysis|Pandas|Excel
+SUB028,Machine Learning I,Bachelor of Science,Data Science,3,4,Core,Machine Learning|Scikit-learn
+SUB029,Data Mining,Bachelor of Science,Data Science,4,3,Core,Data Analysis|Machine Learning
+SUB030,Business Communication,Bachelor of Science,Data Science,4,3,Core,Communication|Presentation Skills
+SUB031,Time Series Analysis,Bachelor of Science,Data Science,5,3,Elective,Statistics|Python|Data Analysis
+SUB032,Data Ethics and Governance,Bachelor of Science,Data Science,5,2,Core,Critical Thinking|Decision Making
+SUB033,Data Science Capstone,Bachelor of Science,Data Science,6,6,Core,Teamwork|Problem Solving|Communication
+SUB034,Financial Accounting,Bachelor of Commerce,Commerce,1,4,Core,Financial Accounting
+SUB035,Business Statistics,Bachelor of Commerce,Commerce,1,3,Core,Statistics|Excel
+SUB036,Corporate Finance,Bachelor of Commerce,Commerce,2,4,Core,Financial Modelling|Risk Analysis
+SUB037,Business Communication,Bachelor of Commerce,Commerce,2,3,Core,Communication|Presentation Skills
+SUB038,Cost Accounting,Bachelor of Commerce,Commerce,3,4,Core,Financial Accounting|Excel
+SUB039,Management Information Systems,Bachelor of Commerce,Commerce,3,3,Core,Database Management|Excel
+SUB040,Auditing and Assurance,Bachelor of Commerce,Commerce,4,3,Core,Attention to Detail|Financial Accounting|Risk Analysis
+SUB041,Business Analytics Introduction,Bachelor of Commerce,Commerce,4,3,Elective,Excel|Data Visualization|Power BI
+SUB042,Investment Analysis,Bachelor of Commerce,Commerce,5,3,Core,Financial Modelling|Risk Analysis
+SUB043,Project Management Basics,Bachelor of Commerce,Commerce,5,2,Elective,Project Management|Time Management
+SUB044,Leadership and Ethics,Bachelor of Commerce,Commerce,6,2,Core,Leadership|Decision Making
+SUB045,Principles of Management,Bachelor of Business Administration,Business Administration,1,3,Core,Leadership|Decision Making
+SUB046,Business Statistics,Bachelor of Business Administration,Business Administration,1,3,Core,Statistics|Excel
+SUB047,Marketing Management,Bachelor of Business Administration,Business Administration,2,3,Core,Digital Marketing Analytics|Creativity
+SUB048,Business Communication,Bachelor of Business Administration,Business Administration,2,3,Core,Communication|Presentation Skills|Negotiation
+SUB049,Business Analytics,Bachelor of Business Administration,Business Administration,3,4,Core,Excel|Data Analysis|Power BI
+SUB050,Organizational Behaviour,Bachelor of Business Administration,Business Administration,3,3,Core,Teamwork|Conflict Resolution|Empathy
+SUB051,Financial Management,Bachelor of Business Administration,Business Administration,4,4,Core,Financial Accounting|Financial Modelling
+SUB052,Operations Management,Bachelor of Business Administration,Business Administration,4,3,Core,Project Management|Time Management
+SUB053,Management Information Systems,Bachelor of Business Administration,Business Administration,5,3,Core,Requirements Gathering|Database Management
+SUB054,Strategic Management,Bachelor of Business Administration,Business Administration,5,3,Core,Critical Thinking|Stakeholder Management
+SUB055,Data-Driven Decision Making,Bachelor of Business Administration,Business Administration,6,3,Elective,Data Visualization|Stakeholder Management
+SUB056,Entrepreneurship,Bachelor of Business Administration,Business Administration,6,3,Elective,Creativity|Decision Making|Leadership
+SUB057,Programming in Java,Bachelor of Technology,Information Technology,1,4,Core,Java|Problem Solving
+SUB058,Data Structures,Bachelor of Technology,Information Technology,2,4,Core,Data Structures and Algorithms|Java
+SUB059,Database Systems,Bachelor of Technology,Information Technology,3,4,Core,SQL|Database Management|Data Modelling
+SUB060,Linux and Shell Scripting,Bachelor of Technology,Information Technology,3,3,Core,Linux|Perl Scripting
+SUB061,Computer Networks,Bachelor of Technology,Information Technology,4,4,Core,Computer Networks|Network Security
+SUB062,Web Development,Bachelor of Technology,Information Technology,4,3,Core,HTML/CSS|JavaScript|React
+SUB063,Software Engineering,Bachelor of Technology,Information Technology,5,3,Core,Requirements Gathering|Git|Software Testing
+SUB064,Cloud Computing Fundamentals,Bachelor of Technology,Information Technology,5,3,Core,Cloud Computing
+SUB065,Information Security,Bachelor of Technology,Information Technology,6,3,Core,Network Security|Cryptography|Ethical Hacking
+SUB066,Python Programming,Bachelor of Technology,Information Technology,6,3,Elective,Python
+SUB067,Mobile App Development,Bachelor of Technology,Information Technology,7,3,Elective,Mobile App Development|UX Design
+SUB068,Capstone Project,Bachelor of Technology,Information Technology,8,6,Core,Teamwork|Problem Solving|Git

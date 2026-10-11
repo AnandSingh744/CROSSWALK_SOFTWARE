@@ -1,0 +1,70 @@
+Skill_Id,Skill_Name,Category,Domain,Demand_Trend
+SK001,Python,Technical,Programming,Rising
+SK002,SQL,Technical,Databases,Stable
+SK003,R,Technical,Programming,Stable
+SK004,Java,Technical,Programming,Stable
+SK005,C++,Technical,Programming,Stable
+SK006,JavaScript,Technical,Web Development,Stable
+SK007,HTML/CSS,Technical,Web Development,Stable
+SK008,Pandas,Technical,Data & Analytics,Rising
+SK009,Statistics,Technical,Data & Analytics,Stable
+SK010,Machine Learning,Technical,AI & ML,Rising
+SK011,Deep Learning,Technical,AI & ML,Rising
+SK012,Scikit-learn,Technical,AI & ML,Stable
+SK013,TensorFlow,Technical,AI & ML,Stable
+SK014,Natural Language Processing,Technical,AI & ML,Rising
+SK015,Computer Vision,Technical,AI & ML,Rising
+SK016,Data Analysis,Technical,Data & Analytics,Stable
+SK017,Data Visualization,Technical,Data & Analytics,Rising
+SK018,Excel,Technical,Data & Analytics,Stable
+SK019,Power BI,Technical,Data & Analytics,Rising
+SK020,Tableau,Technical,Data & Analytics,Stable
+SK021,Database Management,Technical,Databases,Stable
+SK022,Data Modelling,Technical,Databases,Stable
+SK023,ETL Pipelines,Technical,Data Engineering,Rising
+SK024,Apache Spark,Technical,Data Engineering,Rising
+SK025,Cloud Computing,Technical,Cloud & DevOps,Rising
+SK026,AWS,Technical,Cloud & DevOps,Rising
+SK027,Docker,Technical,Cloud & DevOps,Rising
+SK028,Kubernetes,Technical,Cloud & DevOps,Rising
+SK029,Git,Technical,Software Engineering,Stable
+SK030,Linux,Technical,Systems,Stable
+SK031,Computer Networks,Technical,Networking,Stable
+SK032,Network Security,Technical,Security,Rising
+SK033,Ethical Hacking,Technical,Security,Rising
+SK034,Cryptography,Technical,Security,Stable
+SK035,Data Structures and Algorithms,Technical,Programming,Stable
+SK036,Software Testing,Technical,Software Engineering,Stable
+SK037,API Development,Technical,Software Engineering,Rising
+SK038,React,Technical,Web Development,Stable
+SK039,Mobile App Development,Technical,Software Engineering,Stable
+SK040,CI/CD,Technical,Cloud & DevOps,Rising
+SK041,MLOps,Technical,AI & ML,Rising
+SK042,Generative AI,Technical,AI & ML,Rising
+SK043,Financial Modelling,Technical,Finance,Stable
+SK044,Financial Accounting,Technical,Finance,Stable
+SK045,Risk Analysis,Technical,Finance,Rising
+SK046,Requirements Gathering,Technical,Business,Stable
+SK047,Project Management,Technical,Business,Stable
+SK048,Digital Marketing Analytics,Technical,Marketing,Rising
+SK049,UX Design,Technical,Design,Rising
+SK050,Operating Systems,Technical,Systems,Stable
+SK051,Perl Scripting,Technical,Programming,Declining
+SK052,Manual Software Testing,Technical,Software Engineering,Declining
+SK053,Waterfall Project Management,Technical,Business,Declining
+SK054,Communication,Soft,Soft Skills,Stable
+SK055,Critical Thinking,Soft,Soft Skills,Rising
+SK056,Problem Solving,Soft,Soft Skills,Stable
+SK057,Teamwork,Soft,Soft Skills,Stable
+SK058,Leadership,Soft,Soft Skills,Stable
+SK059,Time Management,Soft,Soft Skills,Stable
+SK060,Adaptability,Soft,Soft Skills,Rising
+SK061,Creativity,Soft,Soft Skills,Rising
+SK062,Presentation Skills,Soft,Soft Skills,Stable
+SK063,Attention to Detail,Soft,Soft Skills,Stable
+SK064,Negotiation,Soft,Soft Skills,Stable
+SK065,Stakeholder Management,Soft,Soft Skills,Stable
+SK066,Decision Making,Soft,Soft Skills,Stable
+SK067,Learning Agility,Soft,Soft Skills,Rising
+SK068,Empathy,Soft,Soft Skills,Stable
+SK069,Conflict Resolution,Soft,Soft Skills,Stable

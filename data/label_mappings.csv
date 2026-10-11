@@ -1,0 +1,68 @@
+Mapping_Id,Label_Type,Raw_Label,Standard_Label
+MAP001,Degree,B.Sc,Bachelor of Science
+MAP002,Degree,BSc,Bachelor of Science
+MAP003,Degree,B.Sc.,Bachelor of Science
+MAP004,Degree,Bachelor Of Science,Bachelor of Science
+MAP005,Degree,B.Tech,Bachelor of Technology
+MAP006,Degree,BTech,Bachelor of Technology
+MAP007,Degree,B.Tech.,Bachelor of Technology
+MAP008,Degree,B.E.,Bachelor of Engineering
+MAP009,Degree,BE,Bachelor of Engineering
+MAP010,Degree,B.Com,Bachelor of Commerce
+MAP011,Degree,BCom,Bachelor of Commerce
+MAP012,Degree,B.Com.,Bachelor of Commerce
+MAP013,Degree,BBA,Bachelor of Business Administration
+MAP014,Degree,B.B.A.,Bachelor of Business Administration
+MAP015,Degree,BCA,Bachelor of Computer Applications
+MAP016,Degree,B.C.A.,Bachelor of Computer Applications
+MAP017,Degree,M.Sc,Master of Science
+MAP018,Degree,MSc,Master of Science
+MAP019,Degree,M.Sc.,Master of Science
+MAP020,Degree,M.Tech,Master of Technology
+MAP021,Degree,MTech,Master of Technology
+MAP022,Degree,MCA,Master of Computer Applications
+MAP023,Degree,M.C.A.,Master of Computer Applications
+MAP024,Degree,MBA,Master of Business Administration
+MAP025,Degree,M.B.A.,Master of Business Administration
+MAP026,Job_Title,Data Analytics Specialist,Data Analyst
+MAP027,Job_Title,Data Science Specialist,Data Scientist
+MAP028,Job_Title,ML Engineer,Machine Learning Engineer
+MAP029,Job_Title,Machine-Learning Engineer,Machine Learning Engineer
+MAP030,Job_Title,S/W Developer,Software Developer
+MAP031,Job_Title,Software Dev,Software Developer
+MAP032,Job_Title,Biz Analyst,Business Analyst
+MAP033,Job_Title,BI Analyst,Business Intelligence Analyst
+MAP034,Job_Title,DB Administrator,Database Administrator
+MAP035,Job_Title,Cyber Security Analyst,Cybersecurity Analyst
+MAP036,Job_Title,Cloud Engr,Cloud Engineer
+MAP037,Job_Title,DevOps Eng.,DevOps Engineer
+MAP038,Job_Title,Quality Assurance Engineer,QA Engineer
+MAP039,Job_Title,Front End Developer,Frontend Developer
+MAP040,Job_Title,Full-Stack Developer,Full Stack Developer
+MAP041,Job_Title,Sys Admin,Systems Administrator
+MAP042,Job_Title,Fin Analyst,Financial Analyst
+MAP043,Job_Title,Web Dev,Web Developer
+MAP044,Job_Title,Project Mgr,Project Manager
+MAP045,Job_Title,Product Mgr,Product Manager
+MAP046,Skill,MS Excel,Excel
+MAP047,Skill,PowerBI,Power BI
+MAP048,Skill,ML,Machine Learning
+MAP049,Skill,Py,Python
+MAP050,Skill,Sklearn,Scikit-learn
+MAP051,Skill,Scikit Learn,Scikit-learn
+MAP052,Skill,Tensor Flow,TensorFlow
+MAP053,Skill,JS,JavaScript
+MAP054,Skill,Amazon Web Services,AWS
+MAP055,Skill,DSA,Data Structures and Algorithms
+MAP056,Skill,NLP,Natural Language Processing
+MAP057,Skill,K8s,Kubernetes
+MAP058,Skill,PostgreSQL,SQL
+MAP059,Skill,MySQL,SQL
+MAP060,Skill,GitHub,Git
+MAP061,Skill,Gen AI,Generative AI
+MAP062,Skill,Data Viz,Data Visualization
+MAP063,Industry,IT,Technology
+MAP064,Industry,Information Technology,Technology
+MAP065,Industry,Banking,Finance & Banking
+MAP066,Industry,BFSI,Finance & Banking
+MAP067,Industry,Retail,E-commerce & Retail

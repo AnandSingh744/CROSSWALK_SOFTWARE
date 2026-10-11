@@ -1,0 +1,61 @@
+Education_Id,Degree,Course,Specialization,College
+EDU001,Bachelor of Technology,Computer Science,Artificial Intelligence,Northfield Institute of Technology
+EDU002,Bachelor of Technology,Computer Science,Cybersecurity,Riverdale University
+EDU003,Bachelor of Technology,Computer Science,Cloud Computing,Lakeside College of Computing
+EDU004,Bachelor of Technology,Computer Science,Software Engineering,Crestview Business School
+EDU005,Bachelor of Technology,Information Technology,Information Systems,Summit State University
+EDU006,Bachelor of Technology,Information Technology,Networking,Harborline Institute of Science
+EDU007,Bachelor of Technology,Electronics and Communication,Networking,Greenfield College of Commerce
+EDU008,Bachelor of Engineering,Computer Science,Software Engineering,Oakridge University
+EDU009,Bachelor of Engineering,Computer Science,Data Science,Westbrook Engineering College
+EDU010,Bachelor of Science,Computer Science,Data Science,Meridian Institute of Management
+EDU011,Bachelor of Science,Computer Science,Software Engineering,Northfield Institute of Technology
+EDU012,Bachelor of Science,Statistics,Applied Statistics,Riverdale University
+EDU013,Bachelor of Science,Mathematics,Applied Statistics,Lakeside College of Computing
+EDU014,Bachelor of Science,Data Science,Data Science,Crestview Business School
+EDU015,Bachelor of Science,Information Technology,Cloud Computing,Summit State University
+EDU016,Bachelor of Science,Economics,Finance,Harborline Institute of Science
+EDU017,Bachelor of Computer Applications,Computer Applications,Software Engineering,Greenfield College of Commerce
+EDU018,Bachelor of Computer Applications,Computer Applications,Information Systems,Oakridge University
+EDU019,Bachelor of Commerce,Commerce,Finance,Westbrook Engineering College
+EDU020,Bachelor of Commerce,Commerce,Business Analytics,Meridian Institute of Management
+EDU021,Bachelor of Business Administration,Business Administration,Marketing,Northfield Institute of Technology
+EDU022,Bachelor of Business Administration,Business Administration,Business Analytics,Riverdale University
+EDU023,Bachelor of Business Administration,Business Administration,Finance,Lakeside College of Computing
+EDU024,Master of Science,Data Science,Artificial Intelligence,Crestview Business School
+EDU025,Master of Science,Statistics,Applied Statistics,Summit State University
+EDU026,Master of Science,Computer Science,Cybersecurity,Harborline Institute of Science
+EDU027,Master of Technology,Computer Science,Artificial Intelligence,Greenfield College of Commerce
+EDU028,Master of Technology,Computer Science,Cloud Computing,Oakridge University
+EDU029,Master of Computer Applications,Computer Applications,Software Engineering,Westbrook Engineering College
+EDU030,Master of Computer Applications,Computer Applications,Data Science,Meridian Institute of Management
+EDU031,Master of Business Administration,Business Administration,Business Analytics,Northfield Institute of Technology
+EDU032,Master of Business Administration,Business Administration,Finance,Riverdale University
+EDU033,Master of Business Administration,Business Administration,Marketing,Lakeside College of Computing
+EDU034,B.Tech,Electronics and Communication,Networking,Meridian Institute of Management
+EDU035,Bachelor of Engineering,Computer Science,Software Engineering,Northfield Institute of Technology
+EDU036,Bachelor of Engineering,Computer Science,Data Science,Riverdale University
+EDU037,B.Sc,Computer Science,Data Science,Lakeside College of Computing
+EDU038,BSc,Computer Science,Software Engineering,Crestview Business School
+EDU039,Bachelor Of Science,Statistics,Applied Statistics,Summit State University
+EDU040,Bachelor of Science,Mathematics,Applied Statistics,Harborline Institute of Science
+EDU041,Bachelor of Science,Data Science,Data Science,Greenfield College of Commerce
+EDU042,Bachelor of Science,Information Technology,Cloud Computing,Oakridge University
+EDU043,Bachelor of Science,Economics,Finance,Westbrook Engineering College
+EDU044,Bachelor of Computer Applications,Computer Applications,Software Engineering,Meridian Institute of Management
+EDU045,Bachelor of Computer Applications,Computer Applications,Information Systems,Northfield Institute of Technology
+EDU046,B.Com,Commerce,Finance,Riverdale University
+EDU047,Bachelor of Commerce,Commerce,Business Analytics,Lakeside College of Computing
+EDU048,Bachelor of Business Administration,Business Administration,Marketing,Crestview Business School
+EDU049,Bachelor of Business Administration,Business Administration,Business Analytics,Summit State University
+EDU050,Bachelor of Business Administration,Business Administration,Finance,Harborline Institute of Science
+EDU051,MSc,Data Science,Artificial Intelligence,Greenfield College of Commerce
+EDU052,Master of Science,Statistics,Applied Statistics,Oakridge University
+EDU053,Master of Science,Computer Science,Cybersecurity,Westbrook Engineering College
+EDU054,Master of Technology,Computer Science,Artificial Intelligence,Meridian Institute of Management
+EDU055,Master of Technology,Computer Science,Cloud Computing,Northfield Institute of Technology
+EDU056,Master of Computer Applications,Computer Applications,Software Engineering,Riverdale University
+EDU057,Master of Computer Applications,Computer Applications,Data Science,Lakeside College of Computing
+EDU058,MBA,Business Administration,Business Analytics,Crestview Business School
+EDU059,Master of Business Administration,Business Administration,Finance,Summit State University
+EDU060,Master of Business Administration,Business Administration,Marketing,Harborline Institute of Science

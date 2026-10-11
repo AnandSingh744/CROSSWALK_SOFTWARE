@@ -1,0 +1,67 @@
+Course_Id,Course_Name,Skills_Covered,Level,Duration_Weeks
+CRS001,Python Programming Fundamentals,Python,Beginner,6
+CRS002,Statistics with Python,Statistics|Python|Data Analysis,Intermediate,8
+CRS003,Data Analysis with Pandas,Pandas|Python|Data Analysis,Intermediate,6
+CRS004,Data Cleaning and Preprocessing,Pandas|Data Analysis|Python|Attention to Detail,Beginner,4
+CRS005,SQL for Beginners,SQL|Database Management,Beginner,5
+CRS006,Advanced SQL and Query Optimization,SQL|Database Management|Data Modelling,Advanced,6
+CRS007,Database Design and Data Modelling,Data Modelling|Database Management|SQL,Intermediate,6
+CRS008,Excel for Data Analysis,Excel|Data Analysis,Beginner,4
+CRS009,Advanced Excel and Dashboards,Excel|Data Visualization|Data Analysis,Intermediate,5
+CRS010,Power BI Essentials,Power BI|Data Visualization,Beginner,5
+CRS011,Tableau for Business Intelligence,Tableau|Data Visualization,Intermediate,5
+CRS012,Data Visualization Principles,Data Visualization|Critical Thinking|Communication,Beginner,4
+CRS013,Data Storytelling for Analysts,Data Visualization|Presentation Skills|Communication,Intermediate,4
+CRS014,R Programming for Statistics,R|Statistics,Intermediate,7
+CRS015,Time Series Forecasting,Statistics|Python|Machine Learning,Advanced,8
+CRS016,Machine Learning Foundations,Machine Learning|Scikit-learn|Python|Statistics,Intermediate,10
+CRS017,Deep Learning with TensorFlow,Deep Learning|TensorFlow|Python,Advanced,10
+CRS018,Natural Language Processing Basics,Natural Language Processing|Python|Machine Learning,Advanced,8
+CRS019,Computer Vision Fundamentals,Computer Vision|Deep Learning|Python,Advanced,8
+CRS020,Generative AI for Developers,Generative AI|Python|API Development,Intermediate,6
+CRS021,MLOps in Practice,MLOps|Docker|CI/CD|Machine Learning,Advanced,8
+CRS022,ETL and Data Pipelines,ETL Pipelines|Python|SQL,Intermediate,7
+CRS023,Big Data with Apache Spark,Apache Spark|Python|ETL Pipelines,Advanced,8
+CRS024,Cloud Computing Fundamentals,Cloud Computing|Linux,Beginner,5
+CRS025,AWS Cloud Practitioner Prep,AWS|Cloud Computing,Beginner,5
+CRS026,AWS Solutions Architecture,AWS|Cloud Computing|Computer Networks,Advanced,8
+CRS027,Docker and Containers,Docker|Linux|Git,Intermediate,4
+CRS028,Kubernetes Orchestration,Kubernetes|Docker|Cloud Computing,Advanced,6
+CRS029,CI/CD with DevOps Tooling,CI/CD|Git|Docker,Intermediate,5
+CRS030,Git and Version Control,Git,Beginner,2
+CRS031,Linux System Administration,Linux|Operating Systems,Intermediate,6
+CRS032,Shell and Perl Scripting for Admins,Linux|Perl Scripting,Intermediate,4
+CRS033,Operating Systems Concepts,Operating Systems|Linux,Intermediate,6
+CRS034,Computer Networking Essentials,Computer Networks,Beginner,6
+CRS035,Network Security Fundamentals,Network Security|Computer Networks|Cryptography,Intermediate,8
+CRS036,Ethical Hacking and Penetration Testing,Ethical Hacking|Network Security|Linux,Advanced,10
+CRS037,Applied Cryptography,Cryptography|Network Security|Python,Advanced,6
+CRS038,Cyber Risk Assessment,Risk Analysis|Network Security|Critical Thinking,Intermediate,4
+CRS039,Core Java Programming,Java,Beginner,8
+CRS040,Data Structures and Algorithms in Java,Java|Data Structures and Algorithms,Intermediate,10
+CRS041,C++ Programming and Systems Concepts,C++|Operating Systems|Data Structures and Algorithms,Intermediate,8
+CRS042,Software Testing and Test Automation,Software Testing|Java|CI/CD,Intermediate,6
+CRS043,Manual Software Testing Essentials,Manual Software Testing|Software Testing,Beginner,3
+CRS044,REST API Development,API Development|JavaScript|Database Management,Intermediate,6
+CRS045,JavaScript for Web Development,JavaScript|HTML/CSS,Beginner,6
+CRS046,Modern Frontend with React,React|JavaScript|HTML/CSS,Intermediate,7
+CRS047,Full Stack Web Development Bootcamp,JavaScript|React|API Development|SQL,Intermediate,12
+CRS048,Mobile App Development Basics,Mobile App Development|Java|UX Design,Intermediate,8
+CRS049,UX Design Fundamentals,UX Design|HTML/CSS|Creativity,Beginner,6
+CRS050,Financial Accounting Basics,Financial Accounting|Excel,Beginner,6
+CRS051,Financial Modelling in Excel,Financial Modelling|Excel|Risk Analysis,Intermediate,8
+CRS052,Quantitative Finance with Python,Financial Modelling|Python|Statistics|Risk Analysis,Advanced,10
+CRS053,Risk Management Essentials,Risk Analysis|Decision Making|Statistics,Intermediate,6
+CRS054,Business Analysis and Requirements Gathering,Requirements Gathering|Stakeholder Management|Communication,Intermediate,6
+CRS055,Project Management Fundamentals,Project Management|Time Management|Leadership,Beginner,6
+CRS056,Agile vs Waterfall Project Methods,Waterfall Project Management|Project Management,Beginner,3
+CRS057,Digital Marketing Analytics,Digital Marketing Analytics|Data Analysis|Excel,Intermediate,6
+CRS058,Product Analytics and Experimentation,Statistics|SQL|Data Analysis|Critical Thinking,Intermediate,6
+CRS059,Healthcare Data Analytics,Data Analysis|R|Statistics,Intermediate,6
+CRS060,Bioinformatics with Python,Python|Statistics|Machine Learning,Intermediate,8
+CRS061,Business Communication and Presentation Skills,Communication|Presentation Skills,Beginner,3
+CRS062,Teamwork and Collaboration,Teamwork|Conflict Resolution|Empathy,Beginner,3
+CRS063,Leadership and Decision Making,Leadership|Decision Making|Negotiation,Intermediate,4
+CRS064,Critical Thinking and Problem Solving,Critical Thinking|Problem Solving,Beginner,4
+CRS065,Time Management and Productivity,Time Management|Attention to Detail|Adaptability,Beginner,2
+CRS066,Learning Agility in Tech Careers,Learning Agility|Adaptability|Creativity,Beginner,2
