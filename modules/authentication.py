@@ -44,66 +44,71 @@ def find_account(email):
 # Register User
 # --------------------------------------------------
 
-def register_user(name, email, password, role):
+def register_user(name, email, password, role="Student"):
     """
-    Register a new user account.
+    Register a new account.
 
-    Returns:
-        Success message or error message.
+    For students, an empty (Incomplete) student profile row is created
+    in the same transaction, so the Student Dashboard works immediately.
+
+    Returns: {"success": bool, "message": str}
     """
 
-    # Check required fields
+    name = (name or "").strip()
+    email = (email or "").strip()
+
     if not name or not email or not password or not role:
-        return "Please complete all required fields."
+        return {"success": False, "message": "Please complete all required fields."}
 
-    # Check duplicate account
+    if "@" not in email or "." not in email.split("@")[-1]:
+        return {"success": False, "message": "Please enter a valid email address."}
+
+    if len(password) < 8:
+        return {"success": False, "message": "Password must be at least 8 characters."}
+
     if find_account(email) is not None:
-        return "An account with this email already exists."
+        return {"success": False, "message": "An account with this email already exists."}
 
-    # Generate unique user ID
     conn = get_connection()
 
     try:
         cursor = conn.cursor()
 
-        cursor.execute(
-            "SELECT User_Id FROM users ORDER BY User_Id DESC LIMIT 1"
-        )
-
+        # Next User_Id
+        cursor.execute("SELECT User_Id FROM users ORDER BY User_Id DESC LIMIT 1")
         last_user = cursor.fetchone()
+        next_user_no = int(last_user[0].replace("USR", "")) + 1 if last_user else 1
+        user_id = f"USR{next_user_no:03d}"
 
-        if last_user:
-            last_number = int(last_user[0].replace("USR", ""))
-            user_id = f"USR{last_number + 1:03d}"
-        else:
-            user_id = "USR001"
-
-        # Hash password
-        password_hash = hash_password(password)
-
-        # Store account
         cursor.execute(
             """
-            INSERT INTO users
-            (User_Id, Name, Email, Password_Hash, Role)
+            INSERT INTO users (User_Id, Name, Email, Password_Hash, Role)
             VALUES (?, ?, ?, ?, ?)
             """,
-            (
-                user_id,
-                name.strip(),
-                email.strip(),
-                password_hash,
-                role
-            )
+            (user_id, name, email, hash_password(password), role)
         )
 
-        conn.commit()
+        # Students also need a profile row
+        if role == "Student":
+            cursor.execute("SELECT Student_Id FROM students ORDER BY Student_Id DESC LIMIT 1")
+            last_student = cursor.fetchone()
+            next_student_no = int(last_student[0].replace("STU", "")) + 1 if last_student else 1
+            student_id = f"STU{next_student_no:03d}"
 
-        return "Registration successful."
+            cursor.execute(
+                """
+                INSERT INTO students (Student_Id, User_Id, Profile_Status)
+                VALUES (?, ?, 'Incomplete')
+                """,
+                (student_id, user_id)
+            )
+
+        conn.commit()
+        return {"success": True, "message": "Account created. You can now log in."}
 
     except Exception as e:
         conn.rollback()
-        return f"Registration failed: {e}"
+        return {"success": False, "message": f"Registration failed: {e}"}
 
     finally:
         conn.close()
@@ -150,44 +155,25 @@ def generate_session_token(user_id, role):
 # --------------------------------------------------
 
 def login_user(email, password):
-    """
-    Authenticate a user.
+    """Authenticate a user with their email and password."""
 
-    Maximum attempts = 3.
-    """
+    account = find_account(email or "")
 
-    attempts = 0
-    max_attempts = 3
+    if account is not None:
 
-    while attempts < max_attempts:
+        user_id, name, stored_email, stored_hash, role = account
 
-        account = find_account(email)
+        if secrets.compare_digest(hash_password(password), stored_hash):
 
-        if account is not None:
+            session = generate_session_token(user_id, role)
+            session["name"] = name
+            session["dashboard"] = route_to_role_dashboard(role)
 
-            user_id, name, stored_email, stored_hash, role = account
-
-            entered_hash = hash_password(password)
-
-            if entered_hash == stored_hash:
-
-                dashboard = route_to_role_dashboard(role)
-
-                session = generate_session_token(
-                    user_id,
-                    role
-                )
-
-                session["name"] = name
-                session["dashboard"] = dashboard
-
-                return {
-                    "success": True,
-                    "message": "Login successful.",
-                    "session": session
-                }
-
-        attempts += 1
+            return {
+                "success": True,
+                "message": "Login successful.",
+                "session": session
+            }
 
     return {
         "success": False,
